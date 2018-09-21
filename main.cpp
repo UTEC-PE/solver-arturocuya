@@ -17,8 +17,7 @@ void menu() {
 int main(int argc, char const *argv[]) {
     menu();
 
-    cout << "\nPress enter to continue ..."; 
-    cin.get(); 
+    cout << "\nPress enter to continue ...";
+    cin.get();
     return EXIT_SUCCESS;
 }
-
